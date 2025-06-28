@@ -279,8 +279,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf
 
 # TimeKeep
-PRODUCT_PACKAGES += \
-    TimeKeep
+#PRODUCT_PACKAGES += \
+#    TimeKeep
 
 # USB HAL
 PRODUCT_PACKAGES += \

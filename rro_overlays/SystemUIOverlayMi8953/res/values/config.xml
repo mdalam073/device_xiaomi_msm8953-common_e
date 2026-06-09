@@ -45,4 +45,6 @@
     <!-- Smart replies in notifications: Whether smart replies in notifications are enabled. -->
     <bool name="config_smart_replies_in_notifications_enabled">false</bool>
 
+    <!-- Show 5G toggle in internet dialog when available -->
+    <bool name="config_supportsVONR">false</bool>
 </resources>
